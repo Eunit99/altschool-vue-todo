@@ -8,6 +8,8 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 ## Live link
 
-## Todo app for Altschool assignment
+[https://altschool-vue-todo.vercel.app/](https://altschool-vue-todo.vercel.app/)
+
+## Todo app for AltSchool assignment
 
 Student ID: **ALT/SOE/024/5096**
